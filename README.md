@@ -77,16 +77,23 @@ Insightful Analysis:
 
 Gross sale view of all product:
 
+
+
 <img width="600" alt="12 09 2024_01 11 13_REC" src="https://github.com/user-attachments/assets/bd1a319f-9531-4f03-bd1a-15b0ad952f35">
 
 
 
 CoGS sale view of all Product:-
+
+
 <img width="604" alt="12 09 2024_01 12 41_REC" src="https://github.com/user-attachments/assets/bf82a6e5-91a7-45a4-9968-1aca1c218816">
 
 
 
 Profit view of all Product:-
+
+
+
 <img width="601" alt="12 09 2024_01 13 15_REC" src="https://github.com/user-attachments/assets/7201dd9d-954f-4a26-8cde-313efdf9851a">
 
 
