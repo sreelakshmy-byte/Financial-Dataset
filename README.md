@@ -1,37 +1,71 @@
 FINANCE DASHBOARD
 The “Financial Data Set” dashboard leverages Power BI to turn intricate financial data into clear, actionable insights. Designed with user experience in mind, it offers seamless data integration, custom sorting, and multi-view analysis to provide a comprehensive overview of gross sales, COGS, and profit performance. This project aims to simplify financial analysis and empower better decision-making through engaging and intuitive visualizations.
+
 PROJECT DETAILS
+
 1.Project Objective.
+
 2.Data Cleaning.
+
 3.DAX queries.
+
 4.Dashboard Building.
+
 Key Factors:-
+
 1.Custom sorting.
+
 2.Bookmarks.
+
 3.Comparisons with multiproduct.
+
 Project Goals:
+
 Gross sales summary:-
+
 •	Monthly Gross Sales Performance Line Chart with four product comparison.
 -Country Wise Gross Sales Performance using stacked column chart.
+
 -Discound Band Wise Gross Sales performance using Ribbon chart.
+
 -Segment Wise Waterfall Chart.
+
 COGS summary:-
+
 •	Monthly COGS Performance stacked Bar chart with four product comparison.
+
 -Country Wise COGS peformance using 100 % stacked Bar chart.
+
 -Discound Band Wise COGS peformance 100 % stacked area chart.
+
 -Segment Wise COGS peformance using Donut Chart.
+
 PROFIT Summary:-
+
 -Monthly Profit peformance using MATRIX table with four product comparison.
+
 -Country Wise Profit peformance using World map.
+
 -Discound Band Wise Profit peformance using Multi Row card.
+
 -Segment Wise Profit peformance using pichart.
-Data Scope:- 1.2013-2014
+
+Data Scope:
+
+1.2013-2014.
+
 Matrix Required.
+
 1.Total Gross sales,COGS & profit view for four product.
+
 2.cards to show the selected produt.
-Views requiredp
+
+Views required
+
 1.Gross sales View
+
 2.COGS view.
+
 3.Profit View.
 
 ![42061](https://github.com/user-attachments/assets/ffdb4bbe-4ccb-4e66-a5bd-6301931e0106)
